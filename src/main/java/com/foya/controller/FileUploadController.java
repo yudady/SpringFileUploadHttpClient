@@ -1,4 +1,4 @@
-package com.journaldev.spring.controller;
+package com.foya.controller;
 
 import java.io.BufferedOutputStream;
 import java.io.File;
